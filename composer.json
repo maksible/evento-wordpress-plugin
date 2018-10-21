@@ -1,0 +1,17 @@
+{
+    "name": "maksible/evento-plugin",
+    "description": "A perfect Event management plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "maksible",
+            "email": "maksible@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+		"psr-4": {"Evento\\": "./inc"}
+	}
+}
